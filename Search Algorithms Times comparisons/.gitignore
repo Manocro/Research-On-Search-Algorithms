@@ -1,0 +1,24 @@
+
+#Project specific
+presentation_rubric.pdf
+
+# Visual Studio Code (Windows)
+/.DS_Store
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.dSYM
+*.sln
+*.vcxproj
+x64
+
+# VS Code
+.vscode
+Info.plist*
+
+# Build files
+/build
+*AutoTest*
+main
+
