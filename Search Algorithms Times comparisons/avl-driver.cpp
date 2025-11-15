@@ -1,4 +1,4 @@
-//JANE NIM
+//Manuel Edwardo De La Rosa Modesto
 
 /*
 #include <iostream> 
